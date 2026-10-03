@@ -1,0 +1,8 @@
+langgraph
+langchain-groq
+langchain-community
+langchain-text-splitters
+langchain-pinecone
+pinecone 
+python-dotenv
+pypdf
